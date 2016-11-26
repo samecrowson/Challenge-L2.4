@@ -1,0 +1,60 @@
+#container {
+    margin: 20px 50px;
+    padding: 40px;
+}
+
+h1 {
+    letter-spacing: 4px;
+    text-align: center;
+}
+
+h2 {
+    letter-spacing: 4px;
+    text-align: center;
+}
+
+h3 {
+    letter-spacing: 4px;
+}
+
+h4 {
+    letter-spacing: 4px;
+}
+
+img {
+    height: 150px;
+    width: 100px;
+    display: block;
+    margin: 0 auto 0 auto;
+}
+
+ul {
+    list-style-type: none;
+}
+
+.jobrole {
+    color: orange;
+    letter-spacing: 4px;
+}
+
+.contactme {
+    text-align: center;
+    margin: auto;
+    color: orange;
+    font-weight: 500;
+    letter-spacing: 4px;
+}
+
+a {
+    text-decoration: none;
+    color: orange;
+}
+
+
+
+
+
+
+
+
+
