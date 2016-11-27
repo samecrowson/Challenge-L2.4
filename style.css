@@ -1,6 +1,6 @@
 #container {
-    margin: 20px 50px;
-    padding: 40px;
+    margin: 15px 40px;
+    padding: 20px;
 }
 
 h1 {
@@ -15,17 +15,41 @@ h2 {
 
 h3 {
     letter-spacing: 4px;
+    color: orange;
 }
 
 h4 {
     letter-spacing: 4px;
 }
 
+.name {
+  font-size: 40px;
+  letter-spacing: 4px;
+}
+
+.role {
+  font-size: 30px;
+  letter-spacing: 2px;
+  color: orange;
+}
+
 img {
-    height: 150px;
-    width: 100px;
-    display: block;
-    margin: 0 auto 0 auto;
+    
+    float: left;
+  margin-right: 30px;
+  margin-bottom: 20px;
+}
+
+hr {
+height: 1px;
+color: orange;
+background-color: orange;
+border: none;
+}
+
+.aboutme {
+  clear: both;
+  
 }
 
 ul {
@@ -35,6 +59,7 @@ ul {
 .jobrole {
     color: orange;
     letter-spacing: 4px;
+    
 }
 
 .contactme {
@@ -48,6 +73,18 @@ ul {
 a {
     text-decoration: none;
     color: orange;
+}
+
+p {
+  margin-left: 70px;
+}
+
+.jobdes {
+  margin-left: 30px;
+}
+
+.education {
+  margin-left: 30px;
 }
 
 
